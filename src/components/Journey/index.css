@@ -1,0 +1,21 @@
+.journey-container{
+    background-image:url("https://alyssahollingsworth.com/wp-content/uploads/2017/05/background5.jpg");
+    min-height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.text-card{
+    margin-left:700px;
+    margin-right: 70px;
+}
+.text{
+    font-family: 'Noto Sans Telugu', sans-serif;
+    font-style: kalnia Glaze;
+    line-height: 1.6;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: justify;
+    color: rgb(0, 13, 95);
+   
+}
